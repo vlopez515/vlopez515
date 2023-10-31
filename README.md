@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 | 👀 Description | Information/Links|
 | ----------- | ----------- |
-|  📫 How to reach me| [![Mail Badge](https://img.shields.io/badge/-vlopez515-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:victorlopez@pursuit.org) [![Linkedin Badge](https://img.shields.io/badge/-vlopez515-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorlopez-swe/)
+|  📫 How to reach me| [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:victorlopez@pursuit.org) [![Linkedin Badge](https://img.shields.io/badge/-VictorLopez-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorlopez-swe/)
 | 📄 Know about my experiences |[Resume]()
 |  🔭 I’m currently working on|[Pawster]() 
 |  🌱 I’m currently learning  | **TypeScript** 
